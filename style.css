@@ -166,3 +166,14 @@ button {
     height: 60px;
     font-size: larger;
 }
+
+/* footer */
+
+.footer {
+    background-color: #1F2937;
+    height: 100px;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
