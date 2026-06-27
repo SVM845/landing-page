@@ -75,7 +75,7 @@ button {
 }
 
 
-/* middle part */
+/* second part */
 
 .gallery {
     display: flex;
@@ -97,4 +97,32 @@ button {
 }
 .info-gallery {
     background-color: rgb(146, 125, 151);
+}
+
+/*  third part */
+
+.qoute {
+    background-color: #E5E7EB;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.qoute p {
+    width: 800px;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+.qoute h2 {
+    margin-top: 5px;
+    margin-right: 40px;
+
+}
+.qoute-author {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
 }
