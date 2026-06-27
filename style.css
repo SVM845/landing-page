@@ -7,12 +7,11 @@ body {
     margin: 0px;
     font-family: 'Roboto', sans-serif;
 }
-.header {
+.header-first {
     display: flex;
     justify-content: space-between;
     font-size: 10px;
     align-items: center;
-    color: #F9FAF8;
     background-color: #1F2937;
 }
 
@@ -25,4 +24,33 @@ ul {
     gap: 60px;
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.upper-page {
+}
+
+.header-full {
+    background-color: #1F2937;
+}
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    background-color: rgb(44, 74, 172);
+}
+
+.h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+.p1 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
 }
