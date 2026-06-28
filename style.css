@@ -15,6 +15,9 @@ body {
 
 .header-full {
     background-color: #1F2937;
+    padding: 200px;
+    padding-top: 0px;
+    padding-bottom: 50px;
 }
 
 .header1 {
@@ -26,7 +29,7 @@ body {
 }
 .header2 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-betweens
 }
 .header2-text {
     display: flex;
@@ -35,7 +38,8 @@ body {
 }
     
 #img1 {
-    width: 600px;
+    width: 450px;
+    height: 250px;
 }
 
 ul a {
@@ -55,8 +59,9 @@ button {
     justify-content: center;
     color: whitesmoke;
     background-color: #3882F6;
-    width: 100px;
-    height: 30px;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
 }
 
 .h1 {
@@ -82,10 +87,15 @@ button {
     text-align: center;
     justify-content: space-between;
     font-size: 25px;
+    padding: 200px;
+    padding-top: 50px;
+    padding-bottom:50px ;
+    gap: 80px
     
 }
 .gallery img {
-    width: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 20px ;
 }
 
@@ -108,6 +118,9 @@ button {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 200px;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 .qoute p {
     width: 800px;
@@ -135,6 +148,8 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 50px ;
+    padding-bottom: 50px;
 }
 .blue-box {
     width: 1000px;
