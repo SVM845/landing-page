@@ -42,6 +42,10 @@ body {
     height: 250px;
 }
 
+.header1 a {
+    color: #F9FAF8;
+    padding-top: 0px;
+}
 ul a {
     text-decoration: none;
 }
@@ -65,7 +69,7 @@ button {
 }
 
 .h1 {
-    font-size: 48px;
+    font-size: 40px;
     color: #F9FAF8;
     font-weight: 900;
 }
@@ -75,7 +79,11 @@ button {
 }
 
 .logo {
+    display: flex;
+    align-items: flex-start;
     font-size: 24px;
+    height: 100px;
+    width: 200px;
     color: #F9FAF8;
 }
 
