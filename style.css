@@ -29,7 +29,7 @@ body {
 }
 .header2 {
     display: flex;
-    justify-content: space-betweens
+    justify-content: space-between;
 }
 .header2-text {
     display: flex;
