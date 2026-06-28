@@ -4,11 +4,9 @@ landing page is the second project from Foundations course of The Odin Project
 
 HTML & CSS will be used in this project
 
-i will share the exact tools and elements i used once i am done
-   but we are expected to see a variety of HTML & CSS elements required to build a website
-   such as flexbox
-
-thats it for now
+I learned a lot flexbox and it finally clicked for me. i can even say, i mastered the flexbox!
+cant wait to try new projects and put my HTML & CSS skills to use.
+(I also searched a lot)
 
 
 
